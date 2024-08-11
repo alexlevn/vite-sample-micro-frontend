@@ -2,7 +2,8 @@ export default function Header() {
   return (
     <div
       style={{
-        width: '100vw',
+        // width: '100vw',
+        width: '100%',
         height: '64px',
         display: 'flex',
         alignItems: 'center',

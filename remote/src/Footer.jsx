@@ -2,7 +2,9 @@ export default function Footer() {
   return (
     <div
       style={{
-        width: '100vw',
+        // width: '100vw',
+        width: '100%',
+
         height: '48px',
         display: 'flex',
         alignItems: 'center',
@@ -14,7 +16,7 @@ export default function Footer() {
         fontWeight: 400,
       }}
     >
-      @ Remote 2024
+      @ Remote 2024 - le thanh dung
     </div>
   );
 }
